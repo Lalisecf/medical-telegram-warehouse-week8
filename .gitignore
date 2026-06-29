@@ -10,8 +10,6 @@ __pycache__/
 
 logs/
 
-data/raw/images/
-
 target/
 
 dbt_packages/
