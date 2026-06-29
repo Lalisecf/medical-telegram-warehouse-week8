@@ -23,6 +23,7 @@ PRODUCT_OBJECTS = {
     "wine glass"
 }
 
+
 def classify_image(objects):
     """
     Classify an image based on the detected objects.
@@ -41,3 +42,74 @@ def classify_image(objects):
         return "lifestyle"
 
     return "other"
+
+
+def main():
+    """
+    Scan all downloaded Telegram images,
+    run YOLOv8 object detection,
+    and prepare detection records.
+    """
+
+    records = []
+
+    # Loop through each Telegram channel folder
+    for channel in IMAGE_ROOT.iterdir():
+
+        if not channel.is_dir():
+            continue
+
+        print(f"\nScanning channel: {channel.name}")
+
+        # Loop through every JPG image
+        for image_file in tqdm(channel.glob("*.jpg")):
+
+            message_id = image_file.stem
+            channel_name = channel.name
+
+            try:
+                # Run YOLO detection
+                results = model(image_file)
+
+                objects = []
+                scores = []
+
+                # Extract detected objects
+                for result in results:
+
+                    for box in result.boxes:
+
+                        cls = int(box.cls)
+                        confidence = float(box.conf)
+
+                        name = model.names[cls]
+
+                        objects.append(name)
+                        scores.append(confidence)
+
+                # Classify image
+                category = classify_image(objects)
+
+                # Average confidence
+                if scores:
+                    avg_confidence = sum(scores) / len(scores)
+                else:
+                    avg_confidence = 0
+
+                # Store record
+                records.append({
+                    "message_id": message_id,
+                    "channel_name": channel_name,
+                    "detected_class": ",".join(objects),
+                    "confidence_score": round(avg_confidence, 3),
+                    "image_category": category
+                })
+
+            except Exception as e:
+                print(f"Error processing {image_file}: {e}")
+
+    return records
+
+
+if __name__ == "__main__":
+    records = main()
