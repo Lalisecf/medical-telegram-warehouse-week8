@@ -45,13 +45,28 @@ async def main():
 
     async for message in client.iter_messages(channel, limit=20):
 
+    # Download image if the message has a photo
+     if message.photo:
+        image_folder = Path(f"data/raw/images/{channel}")
+        image_folder.mkdir(parents=True, exist_ok=True)
+
+        image_path = image_folder / f"{message.id}.jpg"
+
+        await client.download_media(
+            message,
+            file=image_path
+        )
+    else:
+        image_path = None
+
         messages.append({
             "message_id": message.id,
             "date": str(message.date),
             "text": message.text,
             "views": message.views,
             "forwards": message.forwards,
-            "has_media": message.media is not None
+            "has_media": message.media is not None,
+            "image_path": str(image_path) if image_path else None
         })
 
     # Today's date
