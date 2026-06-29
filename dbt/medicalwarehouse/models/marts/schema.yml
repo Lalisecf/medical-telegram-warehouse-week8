@@ -1,19 +1,30 @@
 version: 2
 
 models:
-  - name: mart_channel_summary
-    description: Summary statistics for each Telegram channel
+
+  - name: dim_channels
+    description: Channel dimension
 
     columns:
       - name: channel_name
         tests:
-          - not_null
           - unique
+          - not_null
 
-  - name: mart_channel_engagement
-    description: Message engagement metrics
+  - name: dim_dates
+    description: Date dimension
 
     columns:
+      - name: message_date
+        tests:
+          - unique
+          - not_null
+
+  - name: fct_messages
+    description: Fact table for Telegram messages
+
+    columns:
+
       - name: message_id
         tests:
           - not_null
@@ -21,3 +32,15 @@ models:
       - name: channel_name
         tests:
           - not_null
+
+          - relationships:
+              to: ref('dim_channels')
+              field: channel_name
+
+      - name: message_date
+        tests:
+          - not_null
+
+          - relationships:
+              to: ref('dim_dates')
+              field: message_date
