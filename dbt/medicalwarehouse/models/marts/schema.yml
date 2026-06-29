@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: mart_channel_summary
+    description: Summary statistics for each Telegram channel
+
+    columns:
+      - name: channel_name
+        tests:
+          - not_null
+          - unique
+
+  - name: mart_channel_engagement
+    description: Message engagement metrics
+
+    columns:
+      - name: message_id
+        tests:
+          - not_null
+
+      - name: channel_name
+        tests:
+          - not_null
