@@ -31,9 +31,24 @@ PHONE = os.getenv("PHONE")
 client = TelegramClient("telegram_session", API_ID, API_HASH)
 
 async def main():
-    print("Connecting to Telegram...")
     await client.start(phone=PHONE)
-    print("Connected successfully!")
 
+    channel = "CheMed123"   # Replace with the actual username
+
+    print(f"Reading messages from {channel}...\n")
+
+    count = 0
+
+    async for message in client.iter_messages(channel, limit=20):
+        print("----------------------------")
+        print("Message ID :", message.id)
+        print("Date       :", message.date)
+        print("Text       :", message.text)
+        print("Views      :", message.views)
+
+        count += 1
+
+    print(f"\nTotal messages read: {count}")
+    
 with client:
     client.loop.run_until_complete(main())
