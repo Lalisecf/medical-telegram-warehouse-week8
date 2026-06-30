@@ -5,7 +5,6 @@
 WITH detections AS (
 
     SELECT *
-
     FROM {{ ref('stg_image_detections') }}
 
 ),
@@ -13,7 +12,6 @@ WITH detections AS (
 messages AS (
 
     SELECT *
-
     FROM {{ ref('fct_messages') }}
 
 )
@@ -22,9 +20,15 @@ SELECT
 
     d.message_id,
 
-    m.channel_key,
+    m.channel_name,
 
-    m.date_key,
+    m.message_date,
+
+    m.message_text,
+
+    m.views,
+
+    m.forwards,
 
     d.detected_class,
 
@@ -35,5 +39,4 @@ SELECT
 FROM detections d
 
 INNER JOIN messages m
-
-ON d.message_id = m.message_id
+    ON d.message_id = m.message_id

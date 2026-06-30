@@ -82,3 +82,37 @@ models:
 
       - name: image_path
         description: "Local path where the downloaded image is stored."
+  - name: fct_image_detections
+    description: "YOLO detections joined with Telegram messages"
+
+    columns:
+
+      - name: message_id
+        description: "Telegram message id"
+        tests:
+          - not_null
+
+      - name: channel_name
+        description: "Telegram channel"
+        tests:
+          - not_null
+
+      - name: message_date
+        description: "Date of message"
+        tests:
+          - not_null
+
+      - name: detected_class
+        description: "Objects detected by YOLO"
+        tests:
+          - not_null
+
+      - name: confidence_score
+        description: "Average detection confidence"
+        tests:
+          - not_null
+
+      - name: image_category
+        description: "Image category"
+        tests:
+          - not_null      
