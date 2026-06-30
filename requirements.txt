@@ -8,3 +8,6 @@ ultralytics
 opencv-python
 pandas
 tqdm
+fastapi
+uvicorn
+pydantic
