@@ -112,4 +112,23 @@ def main():
 
 
 if __name__ == "__main__":
+
+    # Run the YOLO detection pipeline
     records = main()
+
+    if records:
+        # Convert records to DataFrame
+        df = pd.DataFrame(records)
+
+        # Save CSV
+        df.to_csv(CSV_FILE, index=False)
+
+        # Display sample results
+        print("\nDetection Results Preview:")
+        print(df.head())
+
+        print(f"\nSaved {len(df)} detections.")
+        print(f"CSV saved to: {CSV_FILE}")
+
+    else:
+        print("No detections found. CSV file was not created.")

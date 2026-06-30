@@ -14,4 +14,4 @@ target/
 
 dbt_packages/
 
-data/
+data/raw/
