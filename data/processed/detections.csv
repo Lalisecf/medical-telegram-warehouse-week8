@@ -1,0 +1,738 @@
+message_id,channel_name,detected_class,confidence_score,image_category
+10,CheMed123,,0.0,other
+11,CheMed123,clock,0.427,other
+13,CheMed123,"hot dog,donut,hot dog,donut,hot dog,hot dog",0.337,other
+14,CheMed123,,0.0,other
+15,CheMed123,,0.0,other
+17,CheMed123,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.377,product_display
+18,CheMed123,,0.0,other
+19,CheMed123,"person,person,dining table,dining table",0.638,lifestyle
+2,CheMed123,bottle,0.387,product_display
+20,CheMed123,"person,person,dining table,dining table",0.638,lifestyle
+21,CheMed123,bird,0.253,other
+22,CheMed123,stop sign,0.278,other
+23,CheMed123,cell phone,0.611,other
+25,CheMed123,"cell phone,person",0.745,lifestyle
+26,CheMed123,"person,cup,book,book",0.471,promotional
+27,CheMed123,,0.0,other
+29,CheMed123,"person,surfboard,person,person",0.505,lifestyle
+3,CheMed123,,0.0,other
+30,CheMed123,person,0.414,lifestyle
+31,CheMed123,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.377,product_display
+32,CheMed123,person,0.588,lifestyle
+33,CheMed123,"orange,orange,book",0.506,other
+34,CheMed123,,0.0,other
+38,CheMed123,,0.0,other
+39,CheMed123,"mouse,mouse,mouse,mouse,mouse,mouse,mouse,mouse",0.677,other
+4,CheMed123,,0.0,other
+40,CheMed123,"person,person,person,person,person,person,person,person,person,person",0.528,lifestyle
+41,CheMed123,person,0.421,lifestyle
+43,CheMed123,"person,chair",0.575,lifestyle
+44,CheMed123,"cell phone,person",0.893,lifestyle
+45,CheMed123,scissors,0.632,other
+46,CheMed123,"person,person,tv",0.564,lifestyle
+48,CheMed123,,0.0,other
+49,CheMed123,"kite,kite,kite,frisbee",0.438,other
+50,CheMed123,cake,0.292,other
+52,CheMed123,"person,person,horse,person,person,person",0.542,lifestyle
+53,CheMed123,person,0.574,lifestyle
+55,CheMed123,stop sign,0.307,other
+56,CheMed123,person,0.833,lifestyle
+57,CheMed123,"person,potted plant,potted plant,potted plant,potted plant,potted plant",0.642,lifestyle
+58,CheMed123,bottle,0.412,product_display
+59,CheMed123,bottle,0.287,product_display
+60,CheMed123,,0.0,other
+64,CheMed123,"person,person,banana,remote",0.416,lifestyle
+67,CheMed123,"stop sign,book",0.432,other
+70,CheMed123,"potted plant,person,book",0.731,lifestyle
+71,CheMed123,"person,person",0.844,lifestyle
+74,CheMed123,,0.0,other
+75,CheMed123,person,0.835,lifestyle
+76,CheMed123,"person,chair,chair",0.465,lifestyle
+77,CheMed123,"bottle,bottle,bottle,bottle",0.913,product_display
+78,CheMed123,"person,person",0.563,lifestyle
+79,CheMed123,,0.0,other
+80,CheMed123,"person,bottle,chair",0.745,promotional
+81,CheMed123,"bottle,bottle,bottle,bottle,bottle",0.82,product_display
+82,CheMed123,"bottle,bottle,bottle,apple",0.74,product_display
+85,CheMed123,,0.0,other
+86,CheMed123,"person,refrigerator",0.629,lifestyle
+87,CheMed123,parking meter,0.279,other
+88,CheMed123,,0.0,other
+9,CheMed123,bottle,0.387,product_display
+90,CheMed123,book,0.308,other
+91,CheMed123,,0.0,other
+92,CheMed123,,0.0,other
+93,CheMed123,person,0.908,lifestyle
+94,CheMed123,"cup,person,cup",0.534,promotional
+95,CheMed123,"person,person",0.68,lifestyle
+96,CheMed123,cup,0.326,product_display
+97,CheMed123,,0.0,other
+26193,Lobelia4Cosmetics,,0.0,other
+26194,Lobelia4Cosmetics,"bottle,cell phone,bottle",0.34,product_display
+26195,Lobelia4Cosmetics,,0.0,other
+26196,Lobelia4Cosmetics,,0.0,other
+26197,Lobelia4Cosmetics,bottle,0.291,product_display
+26198,Lobelia4Cosmetics,"refrigerator,book",0.347,other
+26199,Lobelia4Cosmetics,book,0.352,other
+26200,Lobelia4Cosmetics,bottle,0.272,product_display
+26201,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26202,Lobelia4Cosmetics,,0.0,other
+26203,Lobelia4Cosmetics,,0.0,other
+26204,Lobelia4Cosmetics,,0.0,other
+26205,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26206,Lobelia4Cosmetics,person,0.312,lifestyle
+26207,Lobelia4Cosmetics,"person,person,person",0.726,lifestyle
+26208,Lobelia4Cosmetics,"person,person",0.661,lifestyle
+26209,Lobelia4Cosmetics,,0.0,other
+26210,Lobelia4Cosmetics,bottle,0.612,product_display
+26211,Lobelia4Cosmetics,bottle,0.744,product_display
+26212,Lobelia4Cosmetics,"bottle,traffic light",0.303,product_display
+26213,Lobelia4Cosmetics,,0.0,other
+26214,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26215,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26216,Lobelia4Cosmetics,bottle,0.812,product_display
+26217,Lobelia4Cosmetics,,0.0,other
+26218,Lobelia4Cosmetics,,0.0,other
+26219,Lobelia4Cosmetics,"bottle,book",0.46,product_display
+26220,Lobelia4Cosmetics,bottle,0.862,product_display
+26221,Lobelia4Cosmetics,,0.0,other
+26222,Lobelia4Cosmetics,,0.0,other
+26223,Lobelia4Cosmetics,,0.0,other
+26224,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.436,product_display
+26225,Lobelia4Cosmetics,bottle,0.272,product_display
+26226,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26227,Lobelia4Cosmetics,,0.0,other
+26228,Lobelia4Cosmetics,,0.0,other
+26229,Lobelia4Cosmetics,,0.0,other
+26230,Lobelia4Cosmetics,,0.0,other
+26231,Lobelia4Cosmetics,,0.0,other
+26232,Lobelia4Cosmetics,,0.0,other
+26233,Lobelia4Cosmetics,book,0.252,other
+26234,Lobelia4Cosmetics,bottle,0.744,product_display
+26235,Lobelia4Cosmetics,"bottle,person,person,orange,orange,person,orange",0.56,promotional
+26236,Lobelia4Cosmetics,,0.0,other
+26237,Lobelia4Cosmetics,"person,person,person",0.726,lifestyle
+26238,Lobelia4Cosmetics,person,0.8,lifestyle
+26239,Lobelia4Cosmetics,"bottle,traffic light",0.303,product_display
+26240,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26241,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.436,product_display
+26242,Lobelia4Cosmetics,,0.0,other
+26243,Lobelia4Cosmetics,,0.0,other
+26244,Lobelia4Cosmetics,,0.0,other
+26245,Lobelia4Cosmetics,"bottle,cell phone,bottle",0.34,product_display
+26246,Lobelia4Cosmetics,,0.0,other
+26247,Lobelia4Cosmetics,,0.0,other
+26248,Lobelia4Cosmetics,bottle,0.291,product_display
+26249,Lobelia4Cosmetics,"refrigerator,book",0.347,other
+26250,Lobelia4Cosmetics,book,0.352,other
+26251,Lobelia4Cosmetics,bottle,0.325,product_display
+26252,Lobelia4Cosmetics,bottle,0.5,product_display
+26253,Lobelia4Cosmetics,"parking meter,bottle,bottle",0.342,product_display
+26254,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.423,product_display
+26255,Lobelia4Cosmetics,,0.0,other
+26256,Lobelia4Cosmetics,"refrigerator,bottle,bottle,dining table,bottle,bottle,bottle,bottle",0.344,product_display
+26257,Lobelia4Cosmetics,bottle,0.862,product_display
+26258,Lobelia4Cosmetics,,0.0,other
+26259,Lobelia4Cosmetics,bottle,0.272,product_display
+26260,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26261,Lobelia4Cosmetics,,0.0,other
+26262,Lobelia4Cosmetics,,0.0,other
+26263,Lobelia4Cosmetics,"orange,orange,bowl,dining table",0.624,other
+26264,Lobelia4Cosmetics,,0.0,other
+26265,Lobelia4Cosmetics,cup,0.354,product_display
+26266,Lobelia4Cosmetics,bottle,0.812,product_display
+26267,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26268,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.436,product_display
+26269,Lobelia4Cosmetics,bottle,0.524,product_display
+26270,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26271,Lobelia4Cosmetics,person,0.792,lifestyle
+26272,Lobelia4Cosmetics,,0.0,other
+26273,Lobelia4Cosmetics,,0.0,other
+26274,Lobelia4Cosmetics,cell phone,0.32,other
+26275,Lobelia4Cosmetics,horse,0.877,other
+26276,Lobelia4Cosmetics,"book,cup",0.313,product_display
+26277,Lobelia4Cosmetics,,0.0,other
+26278,Lobelia4Cosmetics,"bottle,vase",0.64,product_display
+26279,Lobelia4Cosmetics,cup,0.392,product_display
+26280,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26281,Lobelia4Cosmetics,cup,0.354,product_display
+26282,Lobelia4Cosmetics,bottle,0.812,product_display
+26283,Lobelia4Cosmetics,,0.0,other
+26284,Lobelia4Cosmetics,,0.0,other
+26285,Lobelia4Cosmetics,bottle,0.345,product_display
+26286,Lobelia4Cosmetics,"bottle,dining table",0.298,product_display
+26287,Lobelia4Cosmetics,"bottle,dining table",0.65,product_display
+26288,Lobelia4Cosmetics,"bottle,bottle,dining table",0.457,product_display
+26289,Lobelia4Cosmetics,"bottle,dining table",0.569,product_display
+26290,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,dining table,bottle",0.376,product_display
+26291,Lobelia4Cosmetics,"bottle,dining table,dining table",0.487,product_display
+26292,Lobelia4Cosmetics,,0.0,other
+26293,Lobelia4Cosmetics,,0.0,other
+26294,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26295,Lobelia4Cosmetics,"bottle,vase",0.64,product_display
+26296,Lobelia4Cosmetics,,0.0,other
+26297,Lobelia4Cosmetics,,0.0,other
+26298,Lobelia4Cosmetics,,0.0,other
+26299,Lobelia4Cosmetics,,0.0,other
+26300,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26301,Lobelia4Cosmetics,person,0.312,lifestyle
+26302,Lobelia4Cosmetics,,0.0,other
+26303,Lobelia4Cosmetics,,0.0,other
+26304,Lobelia4Cosmetics,,0.0,other
+26305,Lobelia4Cosmetics,,0.0,other
+26306,Lobelia4Cosmetics,"bottle,cell phone,bottle",0.34,product_display
+26307,Lobelia4Cosmetics,,0.0,other
+26308,Lobelia4Cosmetics,,0.0,other
+26309,Lobelia4Cosmetics,bottle,0.291,product_display
+26310,Lobelia4Cosmetics,"refrigerator,book",0.347,other
+26311,Lobelia4Cosmetics,book,0.352,other
+26312,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.423,product_display
+26313,Lobelia4Cosmetics,,0.0,other
+26314,Lobelia4Cosmetics,,0.0,other
+26315,Lobelia4Cosmetics,,0.0,other
+26316,Lobelia4Cosmetics,bottle,0.677,product_display
+26317,Lobelia4Cosmetics,,0.0,other
+26318,Lobelia4Cosmetics,,0.0,other
+26319,Lobelia4Cosmetics,,0.0,other
+26320,Lobelia4Cosmetics,bottle,0.272,product_display
+26321,Lobelia4Cosmetics,"bottle,dining table,cup,book",0.455,product_display
+26322,Lobelia4Cosmetics,cup,0.354,product_display
+26323,Lobelia4Cosmetics,,0.0,other
+26324,Lobelia4Cosmetics,"cup,cup,book",0.466,product_display
+26325,Lobelia4Cosmetics,bottle,0.812,product_display
+26326,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26327,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26328,Lobelia4Cosmetics,,0.0,other
+26329,Lobelia4Cosmetics,book,0.252,other
+26330,Lobelia4Cosmetics,,0.0,other
+26331,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26332,Lobelia4Cosmetics,,0.0,other
+26333,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26334,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.436,product_display
+26335,Lobelia4Cosmetics,,0.0,other
+26336,Lobelia4Cosmetics,,0.0,other
+26337,Lobelia4Cosmetics,,0.0,other
+26338,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26339,Lobelia4Cosmetics,person,0.312,lifestyle
+26340,Lobelia4Cosmetics,bottle,0.594,product_display
+26341,Lobelia4Cosmetics,bottle,0.612,product_display
+26343,Lobelia4Cosmetics,"bottle,person,person,orange,orange,person,orange",0.56,promotional
+26344,Lobelia4Cosmetics,,0.0,other
+26345,Lobelia4Cosmetics,"person,person,person",0.726,lifestyle
+26346,Lobelia4Cosmetics,person,0.8,lifestyle
+26347,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26348,Lobelia4Cosmetics,bottle,0.741,product_display
+26349,Lobelia4Cosmetics,bottle,0.862,product_display
+26350,Lobelia4Cosmetics,"orange,orange,bowl,dining table",0.624,other
+26351,Lobelia4Cosmetics,cup,0.354,product_display
+26352,Lobelia4Cosmetics,bottle,0.524,product_display
+26353,Lobelia4Cosmetics,"parking meter,cell phone",0.273,other
+26354,Lobelia4Cosmetics,,0.0,other
+26355,Lobelia4Cosmetics,book,0.252,other
+26356,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26357,Lobelia4Cosmetics,"refrigerator,bottle,bottle,dining table,bottle,bottle,bottle,bottle",0.344,product_display
+26358,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26359,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26360,Lobelia4Cosmetics,bottle,0.437,product_display
+26361,Lobelia4Cosmetics,"bottle,bottle,bottle",0.389,product_display
+26362,Lobelia4Cosmetics,"bottle,bottle",0.431,product_display
+26363,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.336,product_display
+26364,Lobelia4Cosmetics,bottle,0.862,product_display
+26365,Lobelia4Cosmetics,,0.0,other
+26366,Lobelia4Cosmetics,,0.0,other
+26367,Lobelia4Cosmetics,,0.0,other
+26368,Lobelia4Cosmetics,bottle,0.272,product_display
+26369,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26370,Lobelia4Cosmetics,person,0.312,lifestyle
+26371,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26372,Lobelia4Cosmetics,,0.0,other
+26373,Lobelia4Cosmetics,,0.0,other
+26374,Lobelia4Cosmetics,cup,0.392,product_display
+26375,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26376,Lobelia4Cosmetics,cup,0.354,product_display
+26377,Lobelia4Cosmetics,bottle,0.812,product_display
+26378,Lobelia4Cosmetics,bottle,0.345,product_display
+26379,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26380,Lobelia4Cosmetics,,0.0,other
+26381,Lobelia4Cosmetics,bottle,0.329,product_display
+26382,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26383,Lobelia4Cosmetics,,0.0,other
+26384,Lobelia4Cosmetics,,0.0,other
+26385,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26386,Lobelia4Cosmetics,,0.0,other
+26387,Lobelia4Cosmetics,,0.0,other
+26388,Lobelia4Cosmetics,"bottle,vase",0.64,product_display
+26389,Lobelia4Cosmetics,,0.0,other
+26390,Lobelia4Cosmetics,,0.0,other
+26391,Lobelia4Cosmetics,,0.0,other
+26392,Lobelia4Cosmetics,,0.0,other
+26393,Lobelia4Cosmetics,bottle,0.677,product_display
+26394,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26395,Lobelia4Cosmetics,,0.0,other
+26396,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26397,Lobelia4Cosmetics,person,0.312,lifestyle
+26398,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26399,Lobelia4Cosmetics,,0.0,other
+26400,Lobelia4Cosmetics,bottle,0.329,product_display
+26401,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26402,Lobelia4Cosmetics,,0.0,other
+26403,Lobelia4Cosmetics,bottle,0.272,product_display
+26404,Lobelia4Cosmetics,,0.0,other
+26405,Lobelia4Cosmetics,,0.0,other
+26406,Lobelia4Cosmetics,bottle,0.862,product_display
+26407,Lobelia4Cosmetics,,0.0,other
+26408,Lobelia4Cosmetics,bottle,0.594,product_display
+26409,Lobelia4Cosmetics,,0.0,other
+26410,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26411,Lobelia4Cosmetics,,0.0,other
+26412,Lobelia4Cosmetics,,0.0,other
+26413,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26414,Lobelia4Cosmetics,,0.0,other
+26415,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26416,Lobelia4Cosmetics,,0.0,other
+26417,Lobelia4Cosmetics,bottle,0.252,product_display
+26418,Lobelia4Cosmetics,bottle,0.9,product_display
+26419,Lobelia4Cosmetics,"book,bottle,refrigerator,bottle",0.28,product_display
+26420,Lobelia4Cosmetics,refrigerator,0.381,other
+26421,Lobelia4Cosmetics,,0.0,other
+26423,Lobelia4Cosmetics,,0.0,other
+26424,Lobelia4Cosmetics,,0.0,other
+26425,Lobelia4Cosmetics,,0.0,other
+26426,Lobelia4Cosmetics,"bottle,cell phone,bottle",0.34,product_display
+26427,Lobelia4Cosmetics,,0.0,other
+26428,Lobelia4Cosmetics,,0.0,other
+26429,Lobelia4Cosmetics,bottle,0.291,product_display
+26430,Lobelia4Cosmetics,"refrigerator,book",0.347,other
+26431,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.423,product_display
+26432,Lobelia4Cosmetics,,0.0,other
+26433,Lobelia4Cosmetics,,0.0,other
+26434,Lobelia4Cosmetics,,0.0,other
+26435,Lobelia4Cosmetics,bottle,0.329,product_display
+26436,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26437,Lobelia4Cosmetics,,0.0,other
+26438,Lobelia4Cosmetics,bottle,0.272,product_display
+26439,Lobelia4Cosmetics,bottle,0.862,product_display
+26440,Lobelia4Cosmetics,"cup,cup,book",0.466,product_display
+26441,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,orange",0.316,product_display
+26442,Lobelia4Cosmetics,"bottle,bottle",0.316,product_display
+26443,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26444,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26445,Lobelia4Cosmetics,,0.0,other
+26446,Lobelia4Cosmetics,,0.0,other
+26447,Lobelia4Cosmetics,bottle,0.744,product_display
+26448,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26449,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26450,Lobelia4Cosmetics,,0.0,other
+26451,Lobelia4Cosmetics,,0.0,other
+26452,Lobelia4Cosmetics,cup,0.354,product_display
+26453,Lobelia4Cosmetics,bottle,0.812,product_display
+26454,Lobelia4Cosmetics,clock,0.271,other
+26455,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26456,Lobelia4Cosmetics,bottle,0.426,product_display
+26457,Lobelia4Cosmetics,,0.0,other
+26458,Lobelia4Cosmetics,,0.0,other
+26460,Lobelia4Cosmetics,bottle,0.906,product_display
+26461,Lobelia4Cosmetics,bottle,0.9,product_display
+26462,Lobelia4Cosmetics,"bottle,vase",0.64,product_display
+26463,Lobelia4Cosmetics,"cup,cup,book",0.466,product_display
+26464,Lobelia4Cosmetics,,0.0,other
+26465,Lobelia4Cosmetics,book,0.252,other
+26466,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26467,Lobelia4Cosmetics,,0.0,other
+26468,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26469,Lobelia4Cosmetics,,0.0,other
+26470,Lobelia4Cosmetics,,0.0,other
+26471,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26472,Lobelia4Cosmetics,,0.0,other
+26473,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26474,Lobelia4Cosmetics,,0.0,other
+26475,Lobelia4Cosmetics,clock,0.271,other
+26476,Lobelia4Cosmetics,,0.0,other
+26477,Lobelia4Cosmetics,bottle,0.272,product_display
+26478,Lobelia4Cosmetics,,0.0,other
+26479,Lobelia4Cosmetics,bottle,0.426,product_display
+26480,Lobelia4Cosmetics,,0.0,other
+26481,Lobelia4Cosmetics,bottle,0.862,product_display
+26482,Lobelia4Cosmetics,,0.0,other
+26483,Lobelia4Cosmetics,bottle,0.272,product_display
+26484,Lobelia4Cosmetics,cell phone,0.32,other
+26485,Lobelia4Cosmetics,"book,cup",0.313,product_display
+26486,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26487,Lobelia4Cosmetics,person,0.312,lifestyle
+26488,Lobelia4Cosmetics,"cup,bottle",0.368,product_display
+26489,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26490,Lobelia4Cosmetics,"book,bottle,refrigerator,bottle",0.28,product_display
+26491,Lobelia4Cosmetics,refrigerator,0.381,other
+26492,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26493,Lobelia4Cosmetics,,0.0,other
+26494,Lobelia4Cosmetics,clock,0.271,other
+26495,Lobelia4Cosmetics,,0.0,other
+26496,Lobelia4Cosmetics,bottle,0.862,product_display
+26497,Lobelia4Cosmetics,,0.0,other
+26498,Lobelia4Cosmetics,,0.0,other
+26499,Lobelia4Cosmetics,"bottle,person,person,orange,orange,person,orange",0.56,promotional
+26500,Lobelia4Cosmetics,person,0.8,lifestyle
+26501,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26502,Lobelia4Cosmetics,bottle,0.741,product_display
+26503,Lobelia4Cosmetics,"orange,orange,bowl,dining table",0.624,other
+26504,Lobelia4Cosmetics,cup,0.354,product_display
+26505,Lobelia4Cosmetics,book,0.252,other
+26506,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26507,Lobelia4Cosmetics,,0.0,other
+26508,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26509,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26510,Lobelia4Cosmetics,,0.0,other
+26511,Lobelia4Cosmetics,,0.0,other
+26512,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26513,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,orange",0.316,product_display
+26514,Lobelia4Cosmetics,"bottle,bottle",0.316,product_display
+26515,Lobelia4Cosmetics,,0.0,other
+26516,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26517,Lobelia4Cosmetics,person,0.312,lifestyle
+26518,Lobelia4Cosmetics,"person,person",0.661,lifestyle
+26519,Lobelia4Cosmetics,,0.0,other
+26520,Lobelia4Cosmetics,,0.0,other
+26521,Lobelia4Cosmetics,dining table,0.34,other
+26523,Lobelia4Cosmetics,dining table,0.438,other
+26524,Lobelia4Cosmetics,"bottle,traffic light",0.303,product_display
+26525,Lobelia4Cosmetics,,0.0,other
+26526,Lobelia4Cosmetics,"person,person,person",0.726,lifestyle
+26527,Lobelia4Cosmetics,person,0.8,lifestyle
+26528,Lobelia4Cosmetics,"bottle,dining table,bottle,bottle",0.459,product_display
+26529,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26530,Lobelia4Cosmetics,bottle,0.744,product_display
+26531,Lobelia4Cosmetics,bottle,0.906,product_display
+26532,Lobelia4Cosmetics,,0.0,other
+26533,Lobelia4Cosmetics,refrigerator,0.381,other
+26534,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26535,Lobelia4Cosmetics,,0.0,other
+26536,Lobelia4Cosmetics,clock,0.271,other
+26537,Lobelia4Cosmetics,"bottle,book",0.366,product_display
+26538,Lobelia4Cosmetics,cup,0.354,product_display
+26539,Lobelia4Cosmetics,bottle,0.812,product_display
+26540,Lobelia4Cosmetics,bottle,0.345,product_display
+26541,Lobelia4Cosmetics,,0.0,other
+26542,Lobelia4Cosmetics,,0.0,other
+26543,Lobelia4Cosmetics,orange,0.48,other
+26544,Lobelia4Cosmetics,book,0.276,other
+26545,Lobelia4Cosmetics,,0.0,other
+26546,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26547,Lobelia4Cosmetics,,0.0,other
+26548,Lobelia4Cosmetics,,0.0,other
+26549,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26550,Lobelia4Cosmetics,,0.0,other
+26551,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26552,Lobelia4Cosmetics,bottle,0.252,product_display
+26553,Lobelia4Cosmetics,"book,bottle,refrigerator,bottle",0.28,product_display
+26554,Lobelia4Cosmetics,refrigerator,0.381,other
+26555,Lobelia4Cosmetics,bottle,0.426,product_display
+26556,Lobelia4Cosmetics,,0.0,other
+26557,Lobelia4Cosmetics,,0.0,other
+26558,Lobelia4Cosmetics,bottle,0.272,product_display
+26559,Lobelia4Cosmetics,,0.0,other
+26560,Lobelia4Cosmetics,,0.0,other
+26561,Lobelia4Cosmetics,,0.0,other
+26562,Lobelia4Cosmetics,bottle,0.862,product_display
+26563,Lobelia4Cosmetics,,0.0,other
+26564,Lobelia4Cosmetics,,0.0,other
+26565,Lobelia4Cosmetics,,0.0,other
+26566,Lobelia4Cosmetics,cup,0.354,product_display
+26567,Lobelia4Cosmetics,,0.0,other
+26568,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.38,product_display
+26569,Lobelia4Cosmetics,,0.0,other
+26570,Lobelia4Cosmetics,,0.0,other
+26571,Lobelia4Cosmetics,"bottle,vase",0.64,product_display
+26572,Lobelia4Cosmetics,bottle,0.464,product_display
+26573,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.45,product_display
+26574,Lobelia4Cosmetics,"book,book",0.435,other
+26575,Lobelia4Cosmetics,bottle,0.325,product_display
+26576,Lobelia4Cosmetics,bottle,0.5,product_display
+26577,Lobelia4Cosmetics,"refrigerator,bottle",0.339,product_display
+26578,Lobelia4Cosmetics,bottle,0.677,product_display
+26579,Lobelia4Cosmetics,,0.0,other
+26580,Lobelia4Cosmetics,,0.0,other
+26581,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26582,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26583,Lobelia4Cosmetics,book,0.252,other
+26584,Lobelia4Cosmetics,"cell phone,donut",0.427,other
+26585,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26586,Lobelia4Cosmetics,,0.0,other
+26587,Lobelia4Cosmetics,,0.0,other
+26588,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26589,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26590,Lobelia4Cosmetics,,0.0,other
+26591,Lobelia4Cosmetics,clock,0.271,other
+26592,Lobelia4Cosmetics,"bottle,traffic light",0.303,product_display
+26593,Lobelia4Cosmetics,bottle,0.594,product_display
+26594,Lobelia4Cosmetics,,0.0,other
+26595,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26596,Lobelia4Cosmetics,bottle,0.906,product_display
+26597,Lobelia4Cosmetics,person,0.8,lifestyle
+26598,Lobelia4Cosmetics,bottle,0.741,product_display
+26599,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26600,Lobelia4Cosmetics,person,0.312,lifestyle
+26601,Lobelia4Cosmetics,bottle,0.426,product_display
+26602,Lobelia4Cosmetics,,0.0,other
+26603,Lobelia4Cosmetics,,0.0,other
+26604,Lobelia4Cosmetics,bottle,0.272,product_display
+26605,Lobelia4Cosmetics,,0.0,other
+26606,Lobelia4Cosmetics,bottle,0.677,product_display
+26607,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.423,product_display
+26608,Lobelia4Cosmetics,,0.0,other
+26609,Lobelia4Cosmetics,,0.0,other
+26610,Lobelia4Cosmetics,,0.0,other
+26611,Lobelia4Cosmetics,bottle,0.862,product_display
+26612,Lobelia4Cosmetics,"book,bottle,refrigerator,bottle",0.28,product_display
+26613,Lobelia4Cosmetics,"book,cup",0.277,product_display
+26614,Lobelia4Cosmetics,"cup,bottle",0.368,product_display
+26615,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,orange",0.316,product_display
+26616,Lobelia4Cosmetics,"bottle,bottle",0.316,product_display
+26617,Lobelia4Cosmetics,"refrigerator,bottle,bottle,dining table,bottle,bottle,bottle,bottle",0.344,product_display
+26618,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26619,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26620,Lobelia4Cosmetics,bottle,0.437,product_display
+26621,Lobelia4Cosmetics,"bottle,bottle,bottle",0.389,product_display
+26622,Lobelia4Cosmetics,"bottle,bottle",0.431,product_display
+26623,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle",0.336,product_display
+26624,Lobelia4Cosmetics,"bottle,cake",0.332,product_display
+26625,Lobelia4Cosmetics,,0.0,other
+26626,Lobelia4Cosmetics,,0.0,other
+26627,Lobelia4Cosmetics,,0.0,other
+26628,Lobelia4Cosmetics,,0.0,other
+26629,Lobelia4Cosmetics,"cup,cup,book",0.466,product_display
+26630,Lobelia4Cosmetics,,0.0,other
+26631,Lobelia4Cosmetics,,0.0,other
+26632,Lobelia4Cosmetics,book,0.252,other
+26633,Lobelia4Cosmetics,"fork,cup,knife",0.599,product_display
+26634,Lobelia4Cosmetics,,0.0,other
+26635,Lobelia4Cosmetics,,0.0,other
+26636,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26637,Lobelia4Cosmetics,bottle,0.426,product_display
+26638,Lobelia4Cosmetics,,0.0,other
+26639,Lobelia4Cosmetics,,0.0,other
+26640,Lobelia4Cosmetics,bottle,0.272,product_display
+26641,Lobelia4Cosmetics,,0.0,other
+26642,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26643,Lobelia4Cosmetics,,0.0,other
+26644,Lobelia4Cosmetics,"bottle,bottle",0.54,product_display
+26645,Lobelia4Cosmetics,"bottle,bottle",0.52,product_display
+26646,Lobelia4Cosmetics,orange,0.48,other
+26647,Lobelia4Cosmetics,book,0.276,other
+26648,Lobelia4Cosmetics,,0.0,other
+26649,Lobelia4Cosmetics,,0.0,other
+26650,Lobelia4Cosmetics,,0.0,other
+26651,Lobelia4Cosmetics,cup,0.354,product_display
+26652,Lobelia4Cosmetics,,0.0,other
+26653,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle",0.414,product_display
+26654,Lobelia4Cosmetics,"bottle,bottle,bottle,bottle,bottle",0.347,product_display
+26655,Lobelia4Cosmetics,book,0.252,other
+26656,Lobelia4Cosmetics,"cell phone,donut",0.427,other
+26657,Lobelia4Cosmetics,,0.0,other
+26658,Lobelia4Cosmetics,bottle,0.426,product_display
+26659,Lobelia4Cosmetics,,0.0,other
+26660,Lobelia4Cosmetics,,0.0,other
+26661,Lobelia4Cosmetics,bottle,0.272,product_display
+26662,Lobelia4Cosmetics,cell phone,0.32,other
+26663,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26664,Lobelia4Cosmetics,,0.0,other
+26665,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26666,Lobelia4Cosmetics,,0.0,other
+26667,Lobelia4Cosmetics,,0.0,other
+26668,Lobelia4Cosmetics,bottle,0.862,product_display
+26669,Lobelia4Cosmetics,,0.0,other
+26670,Lobelia4Cosmetics,,0.0,other
+26671,Lobelia4Cosmetics,,0.0,other
+26672,Lobelia4Cosmetics,"bottle,bottle,dining table,bottle,bottle,cup,bottle,bottle,bottle,bottle,bottle,bottle",0.381,product_display
+26673,Lobelia4Cosmetics,person,0.312,lifestyle
+26674,Lobelia4Cosmetics,,0.0,other
+26675,Lobelia4Cosmetics,"bottle,traffic light",0.303,product_display
+26676,Lobelia4Cosmetics,bottle,0.594,product_display
+26677,Lobelia4Cosmetics,,0.0,other
+26678,Lobelia4Cosmetics,"orange,teddy bear",0.294,other
+26679,Lobelia4Cosmetics,bottle,0.906,product_display
+26680,Lobelia4Cosmetics,person,0.8,lifestyle
+26681,Lobelia4Cosmetics,bottle,0.741,product_display
+26682,Lobelia4Cosmetics,,0.0,other
+26683,Lobelia4Cosmetics,"cup,cup,book",0.466,product_display
+26684,Lobelia4Cosmetics,book,0.252,other
+26685,Lobelia4Cosmetics,,0.0,other
+26686,Lobelia4Cosmetics,"sports ball,sports ball",0.334,other
+26687,Lobelia4Cosmetics,book,0.252,other
+26688,Lobelia4Cosmetics,"cell phone,donut",0.427,other
+26689,Lobelia4Cosmetics,bottle,0.677,product_display
+26690,Lobelia4Cosmetics,"bottle,cake",0.332,product_display
+26691,Lobelia4Cosmetics,,0.0,other
+26692,Lobelia4Cosmetics,,0.0,other
+26693,Lobelia4Cosmetics,,0.0,other
+26694,Lobelia4Cosmetics,cell phone,0.32,other
+26695,Lobelia4Cosmetics,"person,stop sign",0.483,lifestyle
+26696,Lobelia4Cosmetics,,0.0,other
+195828,tikvahpharma,,0.0,other
+195829,tikvahpharma,book,0.39,other
+195830,tikvahpharma,"book,toothbrush",0.301,other
+195831,tikvahpharma,"tv,microwave,clock",0.436,other
+195832,tikvahpharma,,0.0,other
+195833,tikvahpharma,,0.0,other
+195834,tikvahpharma,,0.0,other
+195835,tikvahpharma,,0.0,other
+195836,tikvahpharma,,0.0,other
+195837,tikvahpharma,,0.0,other
+195838,tikvahpharma,"refrigerator,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,refrigerator",0.377,product_display
+195841,tikvahpharma,refrigerator,0.259,other
+195843,tikvahpharma,"bottle,bottle,cup",0.572,product_display
+195844,tikvahpharma,,0.0,other
+195845,tikvahpharma,book,0.39,other
+195846,tikvahpharma,"book,toothbrush",0.301,other
+195847,tikvahpharma,"tv,microwave,clock",0.436,other
+195848,tikvahpharma,,0.0,other
+195849,tikvahpharma,,0.0,other
+195850,tikvahpharma,,0.0,other
+195851,tikvahpharma,,0.0,other
+195852,tikvahpharma,,0.0,other
+195853,tikvahpharma,,0.0,other
+195858,tikvahpharma,"bottle,book",0.463,product_display
+195860,tikvahpharma,bowl,0.364,other
+195864,tikvahpharma,,0.0,other
+195870,tikvahpharma,bowl,0.364,other
+195875,tikvahpharma,,0.0,other
+195884,tikvahpharma,bottle,0.296,product_display
+195885,tikvahpharma,,0.0,other
+195886,tikvahpharma,,0.0,other
+195887,tikvahpharma,,0.0,other
+195888,tikvahpharma,refrigerator,0.336,other
+195889,tikvahpharma,"tv,laptop,person,person,person",0.774,lifestyle
+195891,tikvahpharma,,0.0,other
+195892,tikvahpharma,"tv,keyboard",0.841,other
+195893,tikvahpharma,"tv,keyboard,person",0.36,lifestyle
+195896,tikvahpharma,chair,0.808,other
+195899,tikvahpharma,tv,0.882,other
+195900,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+195906,tikvahpharma,,0.0,other
+195909,tikvahpharma,,0.0,other
+195910,tikvahpharma,,0.0,other
+195911,tikvahpharma,refrigerator,0.336,other
+195914,tikvahpharma,,0.0,other
+195917,tikvahpharma,"tv,microwave,clock",0.446,other
+195933,tikvahpharma,"tv,microwave,clock",0.446,other
+195934,tikvahpharma,book,0.39,other
+195935,tikvahpharma,,0.0,other
+195936,tikvahpharma,,0.0,other
+195937,tikvahpharma,,0.0,other
+195938,tikvahpharma,,0.0,other
+195939,tikvahpharma,,0.0,other
+195940,tikvahpharma,"train,train",0.455,other
+195941,tikvahpharma,,0.0,other
+195942,tikvahpharma,,0.0,other
+195948,tikvahpharma,,0.0,other
+195950,tikvahpharma,,0.0,other
+195955,tikvahpharma,,0.0,other
+195960,tikvahpharma,"tv,microwave,clock",0.446,other
+195961,tikvahpharma,book,0.393,other
+195962,tikvahpharma,,0.0,other
+195963,tikvahpharma,"book,toothbrush",0.295,other
+195966,tikvahpharma,"laptop,cell phone",0.499,other
+195967,tikvahpharma,"laptop,laptop,dining table",0.623,other
+195968,tikvahpharma,"laptop,person",0.697,lifestyle
+195969,tikvahpharma,laptop,0.709,other
+195972,tikvahpharma,,0.0,other
+195973,tikvahpharma,,0.0,other
+195974,tikvahpharma,refrigerator,0.336,other
+195976,tikvahpharma,,0.0,other
+195979,tikvahpharma,bowl,0.364,other
+195982,tikvahpharma,"bottle,bottle,bottle,bottle,bottle",0.387,product_display
+195983,tikvahpharma,,0.0,other
+195986,tikvahpharma,bowl,0.364,other
+195989,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+195993,tikvahpharma,bowl,0.364,other
+195994,tikvahpharma,bottle,0.796,product_display
+195999,tikvahpharma,"refrigerator,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,refrigerator",0.377,product_display
+196007,tikvahpharma,"laptop,cell phone",0.499,other
+196008,tikvahpharma,"laptop,laptop,dining table",0.623,other
+196009,tikvahpharma,"laptop,person",0.697,lifestyle
+196010,tikvahpharma,laptop,0.709,other
+196019,tikvahpharma,,0.0,other
+196022,tikvahpharma,"refrigerator,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,refrigerator",0.377,product_display
+196030,tikvahpharma,,0.0,other
+196036,tikvahpharma,,0.0,other
+196037,tikvahpharma,,0.0,other
+196038,tikvahpharma,refrigerator,0.336,other
+196039,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+196042,tikvahpharma,,0.0,other
+196048,tikvahpharma,"bowl,book",0.377,other
+196053,tikvahpharma,"book,toothbrush",0.295,other
+196054,tikvahpharma,book,0.391,other
+196055,tikvahpharma,"tv,microwave,clock",0.449,other
+196056,tikvahpharma,,0.0,other
+196070,tikvahpharma,"laptop,cell phone",0.499,other
+196071,tikvahpharma,"laptop,laptop,dining table",0.623,other
+196072,tikvahpharma,"laptop,person",0.697,lifestyle
+196073,tikvahpharma,laptop,0.709,other
+196078,tikvahpharma,,0.0,other
+196083,tikvahpharma,book,0.513,other
+196084,tikvahpharma,,0.0,other
+196085,tikvahpharma,"refrigerator,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,bottle,refrigerator",0.377,product_display
+196086,tikvahpharma,"bottle,bottle",0.298,product_display
+196105,tikvahpharma,,0.0,other
+196108,tikvahpharma,,0.0,other
+196109,tikvahpharma,,0.0,other
+196111,tikvahpharma,,0.0,other
+196131,tikvahpharma,,0.0,other
+196132,tikvahpharma,,0.0,other
+196134,tikvahpharma,bowl,0.364,other
+196141,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+196142,tikvahpharma,laptop,0.709,other
+196157,tikvahpharma,"bowl,book",0.377,other
+196164,tikvahpharma,book,0.278,other
+196165,tikvahpharma,,0.0,other
+196166,tikvahpharma,,0.0,other
+196167,tikvahpharma,book,0.347,other
+196169,tikvahpharma,book,0.251,other
+196170,tikvahpharma,,0.0,other
+196172,tikvahpharma,,0.0,other
+196177,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+196178,tikvahpharma,laptop,0.709,other
+196181,tikvahpharma,,0.0,other
+196185,tikvahpharma,,0.0,other
+196189,tikvahpharma,,0.0,other
+196198,tikvahpharma,,0.0,other
+196199,tikvahpharma,,0.0,other
+196207,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+196211,tikvahpharma,"bowl,book",0.377,other
+196224,tikvahpharma,,0.0,other
+196225,tikvahpharma,,0.0,other
+196246,tikvahpharma,"laptop,laptop,tv,person,tv,person,keyboard",0.721,lifestyle
+196247,tikvahpharma,laptop,0.709,other
+196268,tikvahpharma,bowl,0.364,other
+196269,tikvahpharma,,0.0,other
+196270,tikvahpharma,,0.0,other
+196271,tikvahpharma,refrigerator,0.336,other
+196286,tikvahpharma,"book,toothbrush",0.295,other
+196288,tikvahpharma,bowl,0.364,other
+196295,tikvahpharma,"person,sports ball",0.345,lifestyle
+196310,tikvahpharma,,0.0,other
+196311,tikvahpharma,,0.0,other
+196312,tikvahpharma,refrigerator,0.336,other
+196313,tikvahpharma,laptop,0.709,other
+196327,tikvahpharma,,0.0,other
+196337,tikvahpharma,,0.0,other
+196338,tikvahpharma,,0.0,other
+196339,tikvahpharma,refrigerator,0.336,other
+196340,tikvahpharma,laptop,0.709,other
+196343,tikvahpharma,,0.0,other
+196344,tikvahpharma,"tv,microwave,clock",0.47,other
+196355,tikvahpharma,,0.0,other
+196356,tikvahpharma,"tv,microwave,clock",0.47,other
+196367,tikvahpharma,,0.0,other
+196368,tikvahpharma,,0.0,other
+196369,tikvahpharma,refrigerator,0.336,other
+196370,tikvahpharma,laptop,0.709,other
+196383,tikvahpharma,"laptop,bottle",0.723,product_display
+196384,tikvahpharma,laptop,0.908,other
+196409,tikvahpharma,,0.0,other
+196410,tikvahpharma,,0.0,other
+196411,tikvahpharma,refrigerator,0.336,other
+196412,tikvahpharma,"laptop,bottle",0.723,product_display
+196413,tikvahpharma,laptop,0.908,other
+196417,tikvahpharma,,0.0,other
+196435,tikvahpharma,microwave,0.524,other

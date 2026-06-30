@@ -1,13 +1,14 @@
 version: 2
 
 sources:
-
   - name: raw
-    description: "Raw Telegram data loaded into PostgreSQL."
-
     schema: raw
+    description: "Raw data loaded into PostgreSQL"
 
     tables:
 
       - name: telegram_messages
-        description: "Raw Telegram messages scraped from public channels."
+        description: "Raw Telegram messages"
+
+      - name: image_detections
+        description: "YOLO object detection results loaded from detections.csv"
