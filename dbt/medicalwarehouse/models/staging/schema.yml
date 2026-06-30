@@ -1,0 +1,26 @@
+version: 2
+
+models:
+
+  - name: stg_image_detections
+    description: "Cleaned YOLO image detection data"
+
+    columns:
+
+      - name: message_id
+        description: "Telegram message identifier"
+
+        tests:
+          - not_null
+
+      - name: image_category
+        description: "YOLO image classification"
+
+        tests:
+          - not_null
+
+      - name: confidence_score
+        description: "Average confidence score"
+
+        tests:
+          - not_null
